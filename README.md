@@ -35,4 +35,4 @@ For futher documentation, check out [`Localization.hx`](/source/Localization.hx)
 
 ## Other Stuff
 You can check out this system in action in the [`samples/flixel`](/samples/flixel/) folder. <br>
-If you need localization tags, go [here](https://tinyurl.com/3pxsfsu8).
+If you need localization tags, go [here](https://tinyurl.com/nhaanwcu).
