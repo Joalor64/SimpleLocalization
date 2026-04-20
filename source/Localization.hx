@@ -23,7 +23,7 @@ typedef ApplicationConfig = {
 /**
  * A simple localization system.
  * Please credit me if you use it!
- * @author Joalor64GH
+ * @author Joalor64
  */
 
 class Localization 

@@ -3,7 +3,7 @@
 
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Localization Test" file="Lang" main="Main" version="1.0.0" company="Joalor64GH" />
+	<app title="Localization Test" file="Lang" main="Main" version="1.0.0" company="Joalor64" />
 	<app preloader="flixel.system.FlxPreloader" />
 
 	<!--Minimum without FLX_NO_GAMEPAD: 11.8, without FLX_NO_NATIVE_CURSOR: 11.2-->
